@@ -1,0 +1,1 @@
+/home/plamen5kov/work/repos/nativescript-cli/scratch/flavorproject/platforms/android/app/src/main/assets/metadata
